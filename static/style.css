@@ -1,0 +1,28 @@
+
+body{
+    background-color: #0B666A;
+    text-align: center;
+}
+input[type=file] {
+    display:inline-block;
+    }
+input[type=submit]{
+    background-color:#071952 ;
+    color :#97FEED;
+}
+img {
+    width:70%;
+    }
+h3{
+    color:#97FEED;
+    }
+h1{
+    font-weight: bold;
+    font-family:monospace;
+    }
+#head{
+    background-color: #071952;
+    border-radius: 2px;
+    color: #97FEED;
+    padding: 10px;
+}
